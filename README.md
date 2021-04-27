@@ -1,6 +1,6 @@
 # Example code to setup C++ debugging on ROS2 pub/sub
 
-### Import vscode extensions
+### Install vscode extensions
 1. C/C++
 2. CMake Tools (not sure if this is really needed)
 3. Colcon Tasks
